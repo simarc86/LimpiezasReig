@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LimpiezasReig</string>
+    <string name="albaran_txt">Albarán Nº</string>
+    <string name="title_activity_cart">Cesta</string>
+    <string name="title_activity_main">Productos</string>
+    <string name="title_activity_albaran">Albarán</string>
+    <string name="preference_id_albaran">idAlbaran</string>
+    <string name="title_activity_sign">firma</string>
+    <string name="reset_button">Reset</string>
+
+</resources>

@@ -1,0 +1,1024 @@
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+000001 ABELLAUTO SL                   RODRIGUEZ DE CEPEDA 24-26      VALENCIA                      96.369.08.89    N
+       ABELLAUTO SL                   Valencia                       46021 B46473443               96.369.89.26
+000004 ASCENSORES TORRES, S.L.        C/DR.MANUEL CANDELA 64         VALENCIA                      96.3557838      N
+       ASCENSORES TORRES, S.L.        Valencia                       46021 B46948790               96.372.97.13
+000006 SCAVALENCIA, S.A.              AV.DELS GREMIS,42 SECTOR 13. P RIBARROJA                     961.669.595     N
+       SCAVALENCIA, S.A.              Valencia                       46394 A46332995               961.669.589
+000008 BAR RTE. BOLOS, S.A.           TOMAS MONTAÑANA, 2             VALENCIA                      96.360.39.48    N
+       BAR RTE. BOLOS                 Valencia                       46023 A46362406               
+000011 ELENA VILLANUEVA, C.B.         AVDA. DEL PUERTO, 41           VALENCIA                      96.360.03.61    N
+       HORNO PASTELERIA VILLANUEVA    Valencia                       46021 E96960182               
+000017 CARRERA ESCRIVA 31             CC. CARRERA ESCRIVA 31         VALENCIA                                      N
+       C.C. CARRERA ESCRIVA 31        Valencia                       46007 H98052202               
+000049 Q.N.K.SISTEMAS, S.L.           PLAZA EDUARDO MARQUINA, 18 BAJ VALENCIA                      96.348.41.42    N
+       Q.N.K.SISTEMAS, S.L.           Valencia                       46014 B96418736               96.3480561
+000055 YOLANDA QUILES PICO            REINA DOÑA GERMANA, 32         VALENCIA                      96.334.86.92    N
+       YOLANDA QUILES PICO            Valencia                       46005 24346805V               
+000061 PLAST- BELLA PINTURAS, S.L.    JOAQUIN MUÑOZ PEIRATS          FOIOS                         96.149.37.37    N
+       PLAST- BELLA PINTURAS, S.L.    Valencia                       46134 B46217444               
+000074 BAR CENTRO                     REYES CATOLICOS, 2             ALBALAT DEL SORELLS           96.149.05.99    N
+       BAR CENTRO                     Valencia                       46135 41369179E               
+000081 CONCHA DEL POZO MODA, S.L.     CALLE PIZARRO 1                VALENCIA                      96.394.15.19    N
+       CONCHA DEL POZO                Valencia                       46004 B97127401               
+000082 GRUPO TRANSAHER, S.L.          AVENIDA DE EUROPA 9            COSLADA                       96.134.52.52    N
+       GRUPO TRANSAHER, S.L.          Madrid                         28821 B78147758               96.152.03.49
+000091 A.V.A.F.ASOC.VOLUNTARIOS ACOGI CALLE DE GUILLEM DE  ANGLESOLA VALENCIA                      636.810.446     N                                                                                 
+       A.V.A.F.                       Valencia                       46022 G46588661               
+000107 MODAL CARGO                    DR. JUAN JOSE DOMINE, 3, 3º, 6 VALENCIA                      96.367.11.53    N
+       MODAL CARGO                    Valencia                       46011 B96890983               96.3676675
+000124 OLYMPEX VALENCIA, S.A.         PLAZA PROFESOR TAMARIT OLMOS 7 VALENCIA                      96.365.22.66    N
+       OLYMPEX VALENCIA, S.A.         Valencia                       46010 A46567145               96.3652088
+000145 WACO SPAZE, S.L.               ACTOR LLORENS, 19              VALENCIA                      96.389.07.70    N
+       WACO SPAZE, S.L.               Valencia                       46021 B96539655               96.393.06.33
+000151 I.E.S.ESCULTOR EN FRANCESC BAD CAMINO DE LA CREU, S/N.        FOIOS                         961 206 015     N
+       INSTITUTO ESCULTOR EN FRANCESC Valencia                       46134 S4600038F               961206016
+000155 SINEC, S.L.                    PLAZA DEL AYUNTAMIENTO 19 - 9º VALENCIA                                      N
+       SINEC, S.L.                    Valencia                       46002 B96264197               
+000156 MDS CONSULTING, S.L.           JOSEP BEA IZQUIERDO, 3 - 1º -  VALENCIA                      96.349.44.44    N
+       MDS CONSULTING, S.L.           Valencia                       46015 B50330893               
+000157 INSTALACIONES Y SUMINISTROS AI CARRETERA DEL MIG, 184         HOSPITALET DE LLOBREGAT       93.474.16.61    N
+       ISOTERM                        Barcelona                      08907 A08624447               93.474.44.67
+000175 VALENZA ESPAÑA, S.L.           ARTES Y OFICIOS, 7 BAJO IZQ    VALENCIA                      96.330.80.78    N
+       VALENZA ESPAÑA, S.L.           Valencia                       46021 B60811171               96.330.80.78
+000177 TRACOSA ADUANAS                AVDA. DEL PUERTO, 189 - 3º - 1 VALENCIA                      963.31.84.10    N
+       TRACOSA ADUANAS                Valencia                       46022 A58277807               963.31.81.15
+000180 VICENTE GRIMA                  COLON 31 - 3º - 8ª             VALENCIA                      963.94.44.12    N
+       VICENTE GRIMA ABOGADOS         Valencia                       46004 19881573M               
+000184 CASES DE DRET S.L.             POLO Y PEYROLON 23 BAJO        VALENCIA                      963.39.25.25    N
+       CASES DE DRET S.L.             Valencia                       46021 B97271779               96.361.55.62
+000190 JUAN ALFONSO GARRIDO           AVD.PORTUGAL 23 BAJO           VALENCIA                      96.348.42.32    N
+       JUAN ALFONSO GARRIDO           Valencia                       46009 19500123X               
+000198 CUESTA MORENO, CRISTOBAL       AVDA/ HUGO BACHARACH, 30       FOIOS                         635.132.937     N
+       CERVECERIA CUMAR               Valencia                       46134 05109378C               
+000207 EMAFI                          GUILLEM DE CASTRO 59 - 1º, 1ª  VALENCIA                      96.354.01.29    N
+       EMAFI                          Valencia                       46008 F97395503               
+000208 FUNDACION RAIS                 C/ARDEMANS 42                  MADRID                        96.315.38.10    N
+       FUNDACION RAIS                 Valencia                       28028 G83207712               96.315.38.29
+000227 ANFERVAL MANTENIMIENTOS, S.L.  P.I.CATARROJA C/26 PARC, 427,  CATARROJA                     96.126.57.75    N
+       ANFERVAL MANTENIMIENTOS, S.L.  Valencia                       46470 B96242847               96.127.49.54
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+000229 PEREZ BROSETA, Mª CRISTINA     AVDA. BARON DE CARCER, 21      VALENCIA                      96.353.02.09    N
+       FARMACIA Mª CRISTINA PEREZ BRO Valencia                       46001 25383944V               
+000252 MANUEL CANDELA 38              MANUEL CANDELA 38              VALENCIA                                      N
+       MANUEL CANDELA 38              Valencia                       46021 H96051099               
+000255 BLACK ICE, S.L.                CIRILO AMOROS, 22              VALENCIA                      96.344.72.78    N
+       DC COCINA Y BAÑO               Valencia                       46004 B97168751               96.344.72.79
+000263 ASINE, ASESORIA E INVERSIONES  SAN FRANCISCO, 19              ALDAYA                        96.150.52.11    N
+       ASINE                          Valencia                       46960 B96313275               96.150.47.62
+000267 LAVERNIA, CIENFUEGOS Y ASOCIAD FELIX PIZCUETA 23 BAJO INTERIO VALENCIA                      963.525.750     N
+       LAVERNIA, CIENFUEGOS Y ASOCIAD Valencia                       46004 B96458328               
+000272 TALLERES ROMERO TAMARIT C.B.   AVDA. SENYERA 21-22            MELIANA                       96.149.04.34    N
+       TALLERES ROMERO TAMARIT C.B.   Valencia                       46133 E96762703               
+000275 BANCO MEDIOLANUM SA            LAURIA 19 - PLANTA 2ª          VALENCIA                      96.354.81.00    N
+       BANCO MEDIOLANUM, S.A.         Valencia                       46002 A58640582               
+000283 NEUMATICOS GARPEÑ S.L.U        AVDA BARCELONA 92              MUSEROS                       96.144.16.54    N
+       NEUMATICOS GARPEÑ S.L. UNIPERS Valencia                       46136 B46128518               96.144.48.12
+000299 JORDAN SARTI ASESORES, S.L     PLZA. ALMANSA, 1, 1º, PTA.2    VALENCIA                      96.392.52.66    N
+       JORDAN SARTI ASESORES, S.L     Valencia                       46001 B96497755               
+000301 ALVENTO SOLUCIONES, S.A        LAURIA 19 - 5ª                 VALENCIA                      96.353.02.15    N
+       ALVENTO SOLUCIONES, S.A        Valencia                       46002 A97117923               96.353.08.09
+000302 AMARILE S.L.                   G.V. RAMON Y CAJAL 36, 1º,  PT VALENCIA                                      N
+       AMARILE S.L.                   Valencia                       46001 B96344528               
+000310 LEVANTINA DE SERVICIOS MECANIZ CALLE ALBACETE 23, ENTRESUELO- VALENCIA                      96.380.65.02    N
+       LEVANTINA DE SERVICIOS MECANIZ Valencia                       46007 B46189403               
+000313 QUALITY PRODUCT INDUSTRY S.L.  CARRER MITJERA, NAVE 11 C      MASSALFASSAR                  96.141.70.83    N                                                                                 
+       QUALITY PRODUCT INDUSTRY S.L.  Valencia                       46560 B96966585               96.140.41.23
+000316 LLARA INVEST S.L.              MARTINEZ CUBELLS 10 - 3ª       VALENCIA                      96.394.07.74    N
+       LLARA INVEST S.L.              Valencia                       46002 B97986814               96.394.07.74
+000317 GO-FORWARDING, S.L.            AVDA. DEL PUERTO, 189, 1º, 3ª  VALENCIA                      96.330.37.04    N
+       GO-FORWARDING, S.L.            Valencia                       46022 B98204027               96.321.53.80
+000318 EDUCACIÓN Y CRECIMIENTO MAES,  BOTANICO CABANILLES 42 BAJO    ALBORAYA                      96.110.50.06    N
+       GUARDERIA BABÚ                 Valencia                       46120 B98204845               
+000319 ESTEBAN ALGUACIL OLIVAS        CALLE REY JUAN CARLOS I, 1     ALBALAT DELS SORELLS          96.149.56.59    N
+       PIZZERÍA 5 HERMANOS            Valencia                       46135 20166466C               
+000321 LEINWAND, SL                   C/CID, 10 BIS POL.IND.DEL MEDI MASSALFASSAR                  96.140.24.45    N
+       LEINWAND, SL                   Valencia                       46560 B96364112               961401405
+000324 C.B.P.  III MILENI, S. L.      BRETON DE LOS HERREROS 5       VALENCIA                      963.53.44.00    N
+       C.B.P.  III MILENI, S. L.      Valencia                       46003 B98253958               96.353.44.02
+000329 XTRME PROGRAM SL               AV. DEL PUERTO 189 3º B2       VALENCIA                      96.330.38.46    N
+       XTRM STUDIO                    Valencia                       46022 B98181993               
+000330 PAESHO INVERSIONES 2002 SL     C/BOTANICO CAVANILLES 20, PTA. VALENCIA                      96.362.74.11    N
+       PAESHO INVERSIONES 2002 SL     Valencia                       46010 B97232995               
+000332 INMOBILIARIA ALEGRANZA SA      RODRÍGUEZ DE CEPEDA 22, 1º, 2ª VALENCIA                      96.313.21.96    N
+       INMOBILIARIA ALEGRANZA SA      Valencia                       46021 A46069027               
+000333 GREENDÖK SLU                   HERNÁNDEZ LÁZARO 10, BAJO      VALENCIA                      96.347.80.51    N
+       GREENDÖK SLU                   Valencia                       46015 B98418981               96.347.61.87
+000341 MATAMOROS ESCAMILLA, ROSA      GRAN VIA COMPTES DE ALBALAT 4  ALBALAT DELS SORELLS          645.642.814     N
+       CASA CULTURAL                  Valencia                       46135 24333061G               
+000344 HNOS.ROS CONDE C.B.            GARRIGUES 1, PTA.22            VALENCIA                                      N
+       HNOS.ROS CONDE C.B.            Valencia                       46001 E46316410               
+000345 RODRÍGUEZ Y ROS 2004 SL        GARRIGUES 1, PTA.27            VALENCIA                                      N
+       RODRÍGUEZ Y ROS 2004 SL        Valencia                       46001 B97490064               
+000347 CORE GESTIÓN SL                C/MARTÍNEZ CUBELLS 8, PTA.1    VALENCIA                      963 443 270     N
+       CORE GESTIÓN SL                Valencia                       46002 B85942233               963818027
+000351 PINTURAS BLANC Y BLAU SL       AVDA.DR.PESET ALEIXANDRE 42 B  VALENCIA                      96 366 74 58    N
+       PINTURAS BLANC Y BLAU SL       Valencia                       46019 J98057052               
+000352 INTERNET & BUSINESS SYSTEM SL  AVDA. DEL PUERTO 189, 3º PISO, VALENCIA                                      N
+       INTERNET & BUSINESS SYSTEM SL  Valencia                       46022 B97528780               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+000353 MOTOS MAKAMA SL                ARTES Y OFICIOS 21             VALENCIA                      96.362.33.35    N
+       MOTO JOVEN                     Valencia                       46021 B97323406               
+000354 UTE ALICANTE                   CALLE ANTONIO NEBRIJA, NUM.2,  BADAJOZ                                       N
+       UTE ALICANTE                   Badajoz                        06006 U06643936               
+000355 UTE SALAVE MANTENEDORA         CALLE CABALLERO ANDANTE, Nº 8  MADRID                                        N
+       UTE SALAVE MANTENEDORA         Madrid                         28021 U86593852               
+000360 FONDIS 2010 SL                 CALLE SALAMANCA Nº15, PUERTA 1 VALENCIA                      679.018.699     N
+       FONDIS 2010 SL                 Valencia                       46005 B98295371               
+000361 ESTHER BLANQUEZ MARTÍNEZ       AVDA. BUENOS AIRES 9 BAJO      MISLATA (VALENCIA)            96.109.13.16    N
+       CLÍNICA DENTAL ESTHER BLANQUEZ Valencia                       46920 53090569Z               
+000362 GAVILA ORTS SL                 PINTOR SOROLLA 15              MELIANA                       963.39.23.22    N
+       GAVILA ORTS SL                 Valencia                       46133 B98611403               
+000365 BORRELL MENCHERO, JOSE FRANCIS AVDA.CORTES VALENCIANAS 10, PU VALENCIA                      610437598       N
+       SR. JOSÉ BORRELL               Valencia                       46015 19863572J               
+000366 ALADA 1850 SL                  CARRER DE MENORCA, 19          VALENCIA                      96.330.90.12    N
+       JAMAICA COFFEE SHOP            Valencia                       46023 B61732707               
+000367 STIMME SL                      CALLE CID 10. POL.IND.MEDITERR MASSALFASSAR (VALENCIA)       96.140.00.58    N
+       STIMME SL                      Valencia                       46560 B96429782               96.140.24.62
+000368 CASTAÑEDA RODRIGUEZ, JOSE JAVI MANUEL CANDELA 30, PUERTA 1    VALENCIA                                      N
+       CENTRO ORIÓN  (MANUEL CANDELA) Valencia                       46021 20154963V               
+000370 MORALES POLO, MARIA PILAR      POETA MAS Y ROS, 7             VALENCIA                      96.360.23.02    N
+       FARMACIA MARIA PILAR MORALES P Valencia                       46021 24349943G               
+000371 DASI GARRIGUES GESTION SL      AVDA. MARIA CRISTINA 5, PUERTA VALENCIA                      96.394.50.54    N
+       DASIGESTION                    Valencia                       46001 B98443153               
+000373 ALBABAÑOS SL                   CALLE VIRGEN DEL ROSARIO 36    ALBALAT DELS SORELLS          96.148.10.56    N                                                                                 
+       ALBABAÑOS SL                   Valencia                       46135 B98678972               
+000375 FAROIG CB                      GRAN VIA RAMON Y CAJAL, 36-1ª  VALENCIA                                      N
+       FAROIG CB                      Valencia                       46007 E98748270               
+000376 GOMEZ MAGAÑA, JOSEMARIA        PASEO RUZAFA 9, PUERTA 10      VALENCIA                                      N
+       D. JOSEMARÍA GÓMEZ MAGAÑA      Valencia                       46002 22547810J               
+000377 LOPEZ FUSTER & DOMINGUEZ CB    CONVENTO JERUSALEN 57 - 4      VALENCIA                      96.341.08.75    N
+       LOPEZ FUSTER & DOMINGUEZ CB    Valencia                       46007 E96977533               
+000378 LLARALIA SL                    SANTA AMALIA 2 BAJO INT.       VALENCIA                                      N
+       LLARALIA SL                    Valencia                       46009 B98709884               
+000379 HISGERIN SL                    PASEO DE LA ALAMEDA 43 - 27    VALENCIA                                      N
+                                      Valencia                       46023 B96703830               
+000381 LUCILINA SL                    CALLE CALABAZAS 5, 1ª          VALENCIA                      96.3518017      N
+       LUCILINA SL                    Valencia                       46001 B97877393               96.3515425
+000382 EMTE SERVICE SAU               CALLE VALLÈS, 2                CORNELLÀ DE LLOBREGAT (BARCELO9348009150      N
+       EMTE SERVICE SAU               Barcelona                      08940 A60470127               934734912
+000383 TOR MOL SL                     CALLE CRIST DE LES ANIMES, 3 B ALBALAT DELS SORELLS (VALENCIA96.149.53.94    N
+       TOR MOL SL                     Valencia                       46135 B96067632               
+000384 TECNICAS LEGALES AVANZADAS SLP ROGER DE LAURIA 24, 2ª PLANTA  VALENCIA                      96.352.78.39    N
+       TECNICAS LEGALES AVANZADAS SLP Valencia                       46002 B97591069               
+000385 VEREA MONTERO, ALEJANDRO       PUEBLA DE FARNALS 54           VALENCIA                      96.361.84.11    N
+       ALEJANDRO VERA MONTERO         Valencia                       46022 44510476W               96.361.84.72
+000386 FARMACIA SANCHO MONFORTE CB    PZA BENIMACLET 5               VALENCIA                      96.369.01.03    N
+       FARMACIA SANCHO MONFORTE CB    Valencia                       46020 E98791791               
+000394 OTM GARSA SL                   CALLE 321 Nº 30                LA CAÑADA (VALENCIA)          96.378.76.00    N
+       OTM GARSA SL                   Valencia                       46172 B98697758               
+000395 HERENCIA YACENTE FRANCISCO FEN AVDA. BARCELONA KM. 9.700 Nº 1 MUSEROS (VALENCIA)            96.1441676      N
+       HERENCIA YACENTE FRANCISCO FEN Valencia                       46136 E98783277               
+000396 CA INDOSUEZ WEALTH (EUROPE), S PASEO DE LA CASTELLANA 1       MADRID                        96.351.88.80    N
+       CA INDOSUEZ WEALTH MANAGEMENT  Madrid                         28046 W0182904C               96.394.02.13
+001002 ANGEL GUIMERA, 61              ANGEL GUIMERA, 61              VALENCIA                      96.3407313      N
+       C.C. ANGEL GUIMERA, 61         Valencia                       46008 H46782682               96.3401150
+001003 ARZOBISPO MAYORAL, 5           ARZOBISPO MAYORAL, 5           VALENCIA                      96.3517296      N
+       C.C. ARZOBISPO MAYORAL, 5      Valencia                       46002 H46902433               96.3511783
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001004 AVDA. DEL PUERTO 189           AVDA. DEL PUERTO, 189          VALENCIA                      96.3697956      N
+       C.C. AVDA. DEL PUERTO, 189     Valencia                       46022 H96962238               
+001005 GARAJE AVDA. DEL PUERTO 189    AVDA. DEL PUERTO, 189          VALENCIA                      96.3697956      N
+       C.C. GARAJE AVDA. DEL PUERTO,  Valencia                       46022 H96962238               
+001006 BELGICA, 18                    BELGICA, 18                    VALENCIA                      96.3626309      N
+       C.C. BELGICA, 18               Valencia                       46021 H46795266               
+001010 CISCAR, 27                     CISCAR, 27                     VALENCIA                      96.3958770      N
+       C.C. CISCAR, 27                Valencia                       46005 H96392311               
+001011 GARAJE CISCAR, 27              CISCAR, 27                     VALENCIA                      96.3958770      N
+       C.C. GARAJE CISCAR, 27         Valencia                       46005 H96392311               
+001012 EMILIO BARO, 30                EMILIO BARO, 30                VALENCIA                      96.3694043      N
+       C.C. EMILIO BARO, 30           Valencia                       46020 FALTA SU NIF            626.698.738
+001017 CUBA, 79                       CUBA, 79                       VALENCIA                      96.3742725      N
+       C.C. CUBA, 79                  Valencia                       46006 H46735338               
+001018 ESTRELLA, 3                    ESTRELLA, 3                    VALENCIA                      96.3520138      N
+       C.C. ESTRELLA, 3               Valencia                       46007 H46767638               
+001019 PAZ, 9                         PAZ, 9                         VALENCIA                      96.3517296      N
+       C.C. PAZ, 9                    Valencia                       46003 H46704946               96.3511783
+001020 FRANCISCO SEMPERE 2            FRANCISCO SEMPERE, 2           VALENCIA                      96.3407313      N
+       CC FRANCISCO SEMPERE 2         Valencia                       46006 H46829081               96.3401150
+001021 FRANCISCO SEMPERE 4            FRANCISCO SEMPERE, 4           VALENCIA                      96.3333366      N
+       CC FRANCISCO SEMPERE, 4        Valencia                       46006 H46844437               96.3333366
+001023 GUILLEN DE CASTRO 58           GUILLEN DE CASTRO, 58          VALENCIA                      96.3239603      N
+       C.C. GUILLEN DE CASTRO, 58     Valencia                       46001 H46692612               
+001025 CUENCA, 29                     CUENCA, 29                     VALENCIA                      96.3205210      N                                                                                 
+       C.C. CUENCA, 29                Valencia                       46007 H46763157               
+001027 LO RAT PENAT 13                LO RAT PENAT, 13               VALENCIA                      96.3374828      N
+       C.C. LO RAT PENAT, 13          Valencia                       46023 H46738019               
+001029 GIL Y MORTE, 31                GIL Y MORTE, 31                VALENCIA                      96.3410875      N
+       C.C. GIL Y MORTE, 31           Valencia                       46007 H46872446               96.3414069
+001030 MAESTRO AGUILAR, 22            MAESTRO AGUILAR, 22            VALENCIA                                      N
+       C.C. MAESTRO AGUILAR  22       Valencia                       46006 H46829099               
+001031 MANOLO TABERNER, 34            MANOLO TABERNER, 34            VALENCIA                      963.79.38.39    N
+       C.C. MANOLO TABERNER, 34       Valencia                       46018 H46876363               963.79.38.39
+001032 MARIANO RIBERA 25              MARIANO RIBERA, 25             VALENCIA                      96.3419267      N
+       C.C. MARIANO RIBERA, 25        Valencia                       46018 H46716650               96.3803267
+001033 MARTIN HUMANO, 30              MARTIN HUMANO, 30              VALENCIA                      96.3847340      N
+       C.C. MARTIN HUMANO, 30         Valencia                       46008 H46713947               96.3820292
+001034 PALLETER, 9                    PALLETER, 9                    VALENCIA                      96.3407313      N
+       C.C. PALLETER, 9               Valencia                       46008 H46829446               96.3401150
+001035 GARAJE PALLETER, 9             PALLETER, 9                    VALENCIA                      96.3407313      N
+       C.C. GARAJE PALLETER, 9        Valencia                       46008 H46829446               96.3401150
+001036 POETA ARTOLA, 19               POETA ARTOLA, 19               VALENCIA                      96.3738703      N
+       C.C. POETA ARTOLA, 19          Valencia                       46021 H46823019               96.3733016
+001037 SAN VICENTE MÁRTIR 151         SAN VICENTE, 151               VALENCIA                      96.3410875      N
+       CC SAN VICENTE MÁRTIR 151      Valencia                       46007 H46790226               96.3414069
+001038 ACTOR LLORENS 23               ACTOR LLORENS, 23              VALENCIA                      96.3611067      N
+       C.C. ACTOR LLORENS, 23         Valencia                       46021 H96572607               
+001039 RUGAT, 9                       RUGAT, 9  (BUZÓN DE LA COMUNID VALENCIA                      96.3611774      N
+       C.C. RUGAT, 9                  Valencia                       46021 H46842621               
+001043 SAN VICENTE MÁRTIR 184         SAN VICENTE, 184  PTA 64       VALENCIA                      96.3202480      N
+       CC SAN VICENTE MÁRTIR 184      Valencia                       46007 H46473930               
+001044 SAN VICENTE MÁRTIR 186         SAN VICENTE, 186               VALENCIA                      96.3421430      N
+       CC SAN VICENTE MÁRTIR 186      Valencia                       46007 H46760708               96.3421430
+001045 SANTOS JUSTO Y PASTOR 95       SANTOS JUSTO Y PASTOR, 95      VALENCIA                      96.3202090      N
+       C.C. SANTOS JUSTO Y PASTOR, 95 Valencia                       46022 H96655329               
+001048 SERPIS 4                       SERPIS, 4                      VALENCIA                                      N
+       C.C. SERPIS, 4                 Valencia                       46021 H96067079               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001052 ACTOR LLORENS 15               ACTOR LLORENS, 15              VALENCIA                                      N
+       C.C. ACTOR LLORENS, 15         Valencia                       46021 H96656178               
+001053 CENTELLES 2                    CENTELLES, 2                   VALENCIA                      96.3521651      N
+       C.C. CENTELLES, 2              Valencia                       46006 H46868808               
+001056 RAFAEL BARTUAL, 4              RAFAEL BARTUAL, 4              VALENCIA                      96.3922017      N
+       C.C. RAFAEL BARTUAL, 4         Valencia                       46014 H96004197               
+001057 CISCAR, 54                     CISCAR, 54                     VALENCIA                      96.3407313      N
+       C.C. CISCAR, 54                Valencia                       46005 H46757852               96.3401150
+001058 PUEBLA DE FARNALS 28           PUEBLA DE FARNALS, 28          VALENCIA                      96.3614594      N
+       C.C. PUEBLA DE FARNALS, 28     Valencia                       46021 B97116826               
+001063 GARAJE GIL Y MORTE, 25         GIL Y MORTE, 25                VALENCIA                      96.3410875      N
+       C.C. GARAJE GIL Y MORTE, 25    Valencia                       46007 H46790168               96.3414069
+001067 BLASCO IBAÑEZ 190              BLASCO IBAÑEZ, 190             VALENCIA                      96.3626067      N
+       C.C. BLASCO IBAÑEZ, 190        Toledo                         46022 H46795142               
+001068 SAN VICENTE MÁRTIR 367         SAN VICENTE, 367               VALENCIA                      96.3774920      N
+       CC SAN VICENTE MÁRTIR 367      Valencia                       46017 H46856019               
+001069 DR. FERRAN, 14                 DOCTOR FERRAN, 14              VALENCIA                      96.3741117      N
+       C.C. FERRAN, 14                Valencia                       46021 H46895694               
+001072 ACTOR LLORENS 18               ACTOR LLORENS, 18 -8ª          VALENCIA                                      N
+       C.C. ACTOR LLORENS, 18         Valencia                       46021 H96572672               
+001073 MANUEL MARTI, 8                MANUEL MARTI, 8  (BUZÓN COMUNI VALENCIA                      676.321.822     N
+       C.C. MANUEL MARTI, 8           Valencia                       46021 FALTA SU NIF            
+001075 JOSE SIURANA, 16               JOSE SIURANA, 16               CASTELLAR (VALENCIA)                          N
+       JOSE SIURANA, 16               Valencia                       46026 FALTA SU NIF            
+001076 FIGUERETA 54                   FIGUERETA, 54,  PTA. 4         CASTELLAR (VALENCIA)          96.3760207      N                                                                                 
+       C.C. FIGUERETA, 54             Valencia                       46026 H46926911               
+001077 GIL Y MORTE, 33                GIL Y MORTE, 33                VALENCIA                      96.3688280      N
+       C.C. GIL Y MORTE, 33           Valencia                       46007 H46765384               96.3688281
+001083 CISCAR, 43                     CISCAR, 43                     VALENCIA                      96.3738763      N
+       C.C. CISCAR, 43                Valencia                       46005 H46695086               
+001084 BUEN ORDEN, 25                 BUEN ORDEN, 25                 VALENCIA                      96.3521651      N
+       BUEN ORDEN, 25                 Valencia                       46008 B46889333               
+001085 CONDE SALVATIERRA, 11          CONDE SALVATIERRA, 11          VALENCIA                      96.3407313      N
+       C.C. CONDE SALVATIERRA, 11     Valencia                       46004                         
+001087 SAN VICENTE MÁRTIR 146         SAN VICENTE, 146               VALENCIA                                      N
+       CC SAN VICENTE MÁRTIR 146      Valencia                       46007 H46735429               
+001088 RUGAT, 7                       RUGAT, 7   PTA. 2              VALENCIA                      96.3629234      N
+       C.C. RUGAT, 7                  Valencia                       46021 FALTA SU NIF            
+001090 RODRIGUEZ DE CEPEDA 13         RODRIGUEZ DE CEPEDA, 13        VALENCIA                      617.700.961     N
+       C.C. RODRIGUEZ DE CEPEDA, 13   Valencia                       46021 H96539010               
+001093 CENTELLES 60                   CENTELLES, 60                  VALENCIA                      96.3305388      N
+       C.C. CENTELLES, 60             Valencia                       46006 H46788931               96.3306371
+001094 MUSICO GINES 2                 MUSICO GINES, 2                VALENCIA                      96.3941949      N
+       C.C. MUSICO GINES, 2           Valencia                       46022 H46805545               
+001095 ALBALAT DELS TARONGERS, 2      ALBALAT DELS TARONGERS, 2      VALENCIA                      96.3320333      N
+       C.C. ALBALAT DELS TARONGERS, 2 Valencia                       46021 H46742219               
+001096 ACTOR LLORENS 11               ACTOR LLORENS, 11              VALENCIA                      96.3618777      N
+       C.C. ACTOR LLORENS, 11         Valencia                       46021 H96572623               
+001097 GRAN VIA RAMON Y CAJAL, 33     G. VIA RAMON Y CAJAL, 33       VALENCIA                      96.3205210      N
+       C.C. G. VIA RAMON Y CAJAL, 33  Valencia                       46007 H96918511               96.3205213
+001098 GARAJE GRAN VIA RAMON Y CAJAL, G.VIA RAMON Y CAJAL, 33        VALENCIA                      96.3854568      N
+       C.C. GARAJE G.VIA RAMON Y CAJA Valencia                       46007                         
+001099 PINTOR FERRER CALATAYUD 1      PINTOR FERRER CALATAYUD, 1     VALENCIA                      96.3626067      N
+       C.C. PINTOR FERRER CALATAYUD,  Valencia                       46022 H46805446               
+001102 GENERAL LLORENS, 4             GENERAL LLORENS, 4             VALENCIA                                      N
+       C.C. GENERAL LLORENS, 4        Valencia                       46025 H96894126               
+001106 FEDERICO GARCIA LORCA, 2       FEDERICO GARCIA LORCA, 2       PUIG                                          N
+       C.C. FEDERICO GARCIA LORCA, 2  Valencia                       46540 H96905005               96.3890258
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001108 AVDA. HORCHATA, 7              AVDA. HORCHATA, 7              ALBORAYA                      96.369.73.02    N
+       C.C. AVDA. HORCHATA, 7         Valencia                       46120                         
+001111 GARAJE AVDA. HORCHATA, 7       AVDA. HORCHATA, 7              ALBORAYA                      96.369.73.02    N
+       C.C. GARAJE AVDA. HORCHATA, 7  Valencia                       46120                         
+001112 ANTIGUO REINO DE VALENCIA 23   ANTIGUO REINO VALENCIA, 23     VALENCIA                      96.3203031      N
+       C.C. ANTIGUO REINO DE VALENCIA Valencia                       46005 G46085585               
+001113 POETA ARTOLA, 29               POETA ARTOLA, 29               VALENCIA                      96.3603174      N
+       C.C. POETA ARTOLA, 29          Valencia                       46021 H46948501               
+001116 BARCAS, 7                      BARCAS, 7                      VALENCIA                      96.3941074      N
+       C.C. BARCAS, 7                 Valencia                       46002 FALTA SU NIF            
+001117 ACTOR LLORENS 16               ACTOR LLORENS, 16              VALENCIA                      96.3371204      N
+       C.C.ACTOR LLORENS, 16          Valencia                       46021 H96572649               
+001120 ACTOR LLORENS 28               ACTOR LLORENS, 28              VALENCIA                      963692598       N
+       C.C. ACTOR LLORENS, 28         Valencia                       46021 H96551361               
+001126 VENEZUELA, 27                  VENEZUELA, 27                  VALENCIA                      963854568       N
+       C.C. VENEZUELA, 27             Valencia                       46007 H46773131               
+001127 ACTOR LLORENS 26               ACTOR LLORENS, 26              VALENCIA                                      N
+       C.C. ACTOR LLORENS, 26         Valencia                       46021 H96656160               
+001128 CENTELLES 64                   CENTELLES, 64                  VALENCIA                      96.3305388      N
+       C.C. CENTELLES, 64             Valencia                       46006 H46788972               
+001132 ARTES Y OFICIOS 15             ARTES Y OFICIOS, 15            VALENCIA                      96.3328443      N
+       C.C. ARTES Y OFICIOS, 15       Valencia                       46021 H96298393               
+001133 ANTONIO JUST MONZO             GRAN VIA GERMANIAS 49 -10 A    VALENCIA                      96.3518017      N
+       ANTONIO JUST MONZO             Valencia                       46006 19263064N               96.3515425
+001134 ACTOR LLORENS 19               ACTOR LLORENS, 19 -1ª - 4º     VALENCIA                      96.3603430      N                                                                                 
+       C.C. ACTOR LLORENS, 19         Valencia                       46021 FALTA SU NIF            
+001135 ALBALAT DELS TARONGERS, 4      ALBALAT DELS TARONGERS, 4      VALENCIA                      96.3320275      N
+       C.C. ALBALAT DELS TARONGERS, 4 Valencia                       46021 H46874087               
+001136 VIRGEN DEL PUIG, 2             VIRGEN DEL PUIG, 2             EL PUIG                       96.3405515      N
+       C.C. VIRGEN DEL PUIG, 2        Valencia                       46540 H46633293               
+001138 RUPERTO CHAPI, 8               RUPERTO CHAPI, 8               EL PUIG                       96.3405515      N
+       C.C. RUPERTO CHAPI, 8          Valencia                       46540 H46633293               
+001140 GARAJE LEONES, 6 BIS           LEONES, 6 BIS                  VALENCIA                      96.3626067      N
+       C.C. GARAJE  LEONES, 6 BIS     Valencia                       46022 H46729331               
+001141 AMPARO ITURBI, 25              AMPARO ITURBI, 25              VALENCIA                                      N
+       C.C. AMPARO ITURBI, 25         Valencia                       46007 H97146583               
+001143 RENOCAR 1                      RENOCAR, 1                     EL PUIG                                       N
+       C.C. RENOCAR, 1                Valencia                       46540                         
+001145 REAL ORDEN DE LOS CABALLEROS 3 REAL ORDEN CABALLEROS 3        EL PUIG                       96.3658687      N
+       C.C. REAL ORDEN CABALLEROS 3   Valencia                       46540 H97369045               
+001150 LORENZO PALMIREÑO, 10          LORENZO PALMIREÑO, 10          VALENCIA                      96.3890196      N
+       C.C. LORENZO PALMIREÑO, 10     Valencia                       46021 H46971495               
+001152 DR. ROMAGOSA, 14               DR. ROMAGOSA, 14               VALENCIA                      96.3523900      N
+       C.C. DR. ROMAGOSA, 14          Valencia                       46002 H97082614               96.3532808
+001154 POETA MAS Y ROS 4              POETA MAS Y ROS, 4             VALENCIA                                      N
+       C.C. POETA MAS Y ROS, 4        Valencia                       46021 H96024724               
+001155 RUGAT, 6                       RUGAT, 6                       VALENCIA                      96.3360425      N
+       C.C. RUGAT, 6                  Valencia                       46021 H96501717               
+001156 CISCAR, 56                     CISCAR, 56                     VALENCIA                      96.3730969      N
+       C.C. CISCAR, 56                Valencia                       46005 H46762092               
+001157 CAMINO MONCADA, 112            CAMINO MONCADA, 112            VALENCIA                      96.3422960      N
+       C.C. CAMINO MONCADA, 112       Valencia                       46025 H46699120               
+001159 ORDEN DE LA MERCED 29          ORDEN DE LA MERCED, 29         EL PUIG                       96.3405515      N
+       C.C. ORDEN DE LA MERCED, 29    Valencia                       46540 H46854790               
+001160 BOTANICO CABANILLES, 16        BOTANICO CABANILLES, 16        ALBORAYA                      96.1861576      N
+       C.C. BOTANICO CABANILLES, 16   Valencia                       46120 H96853445               96.1856439
+001161 GARAJE BOTANICO CABANILLES, 16 BOTANICO CABANILLES, 16        ALBORAYA                      96.1861576      N
+       C.C. GARAJE BOTANICO CABANILLE Valencia                       46120 H96883445               96.1856439
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001162 GARAJE SAN VICENTE 367         SAN VICENTE, 367               VALENCIA                                      N
+       C.C. GARAJE SAN VICENTE, 367   Valencia                       46017 H46856019               
+001163 JULIO ANTONIO, 11              JULIO ANTONIO, 11              VALENCIA                      96.3423735      N
+       C.C. JULIO ANTONIO, 11         Valencia                       46007 H46754693               
+001164 GUILLEN DE CASTRO 69           GUILLEN DE CASTRO, 69          VALENCIA                                      N
+       C.C. GUILLEN DE CASTRO, 69     Valencia                       46005 H46851713               
+001166 JOSE MONTERDE 19               JOSE MONTERDE, 19              EL PUIG                       96.1472305      N
+       C.C. JOSE MONTERDE, 19         Valencia                       46540 H46787404               
+001167 GARAJE GUILLEN DE CASTRO 69    GUILLEN DE CASTRO, 69          VALENCIA                                      N
+       C.C. GARAJE GUILLEN DE CASTRO, Valencia                       46005 H46851713               
+001170 PINTOR SALVADOR ABRIL, 26      PINTOR SALVADOR ABRIL, 26      VALENCIA                                      N
+       C.C. PINTOR SALVADOR ABRIL, 26 Valencia                       46006 H46887683               
+001173 GARAJE IGNACIO ZULOAGA, 18     IGNACIO ZULOAGA, 18            VALENCIA                      96.3626067      N
+       C.C. GARAJE  IGNACIO ZULOAGA,  Valencia                       46024 H96977285               
+001174 AMPARO ITURBI, 35              AMPARO ITURBI, 35              VALENCIA                      96.3521651      N
+       C.C. AMPARO ITURBI, 35         Valencia                       46007 E46387577               
+001175 CADIZ 56                       CADIZ, 56                      VALENCIA                                      N
+       C.C. CADIZ, 56                 Valencia                       46006 H46788378               
+001176 POLO Y PEYROLON, 28            POLO Y PEYROLON, 28            VALENCIA                                      N
+       C.C. POLO Y PEYROLON, 28       Valencia                       46021 H46782819               
+001177 GARAJE POLO Y PEYROLON, 28     POLO Y PEYROLON, 28            VALENCIA                      96.             N
+       C.C. GARAJE POLO Y PEYROLON, 2 Valencia                       46021 H46782819               
+001179 GORGOS 18                      GORGOS 18                      VALENCIA                      96.3626067      N
+       C.C. GORGOS 18                 Valencia                       46021 H46940730               
+001180 GENERAL LLORENS, 20            GENERAL LLORENS, 20            VALENCIA                                      N                                                                                 
+       C.C. GENERAL LLORENS, 20       Valencia                       46025 H46886933               
+001181 CHILE, 17                      CHILE 17                       VALENCIA                                      N
+       C.C. CHILE 17                  Valencia                       46021 H46806949               
+001182 GRAN VIA RAMON Y CAJAL, 36     G.V. RAMON Y CAJAL, 36         VALENCIA                      96.3516039      N
+       C.C. G.V. RAMON Y CAJAL, 36    Valencia                       46007 H97189245               96.3525459
+001185 CHILE, 19                      CHILE, 19                      VALENCIA                                      N
+       C.C. CHILE, 19                 Tarragona                      46021 H46806964               
+001186 FORTUNA 38                     FORTUNA, 38                    CASTELLAR                     96.3961883      N
+       CC FORTUNA, 38                 Valencia                       46026 H96728084               
+001187 GARAJE FORTUNA, 38             FORTUNA, 38                    CASTELLAR                     963961883       N
+       C.C. GARAJE FORTUNA, 38        Valencia                       46026 H96728084               
+001188 GARAJE BELGICA, 14-16-18       BELGICA, 14-16-18              VALENCIA                      96.3360240      N
+       C.C. GARAJE BELGICA, 14-16-18  Valencia                       46021 H96057377               
+001189 RUGAT, 5                       RUGAT, 5  PUERTA 11            VALENCIA                      96.1410663      N
+       C.C. RUGAT, 5                  Valencia                       46021 H46938536               
+001192 TURIA 54                       TURIA 54                       VALENCIA                                      N
+       CC TURIA 54                    Valencia                       46008                         
+001193 SANTOS JUSTO Y PASTOR 92       JUSTO Y PASTOR 92              VALENCIA                      96.             N
+       C.C. JUSTO Y PASTOR 92         Valencia                       46022 H46779682               
+001194 ISAAC PERAL 55                 ISAAC PERAL 55                 BURJASOT                                      N
+       C.C. ISAAC PERAL 55            Valencia                       46100 FALTA SU NIF            
+001197 REAL ORDEN DE LOS CABALLEROS 5 REAL ORDEN CABALLEROS, 5       EL PUIG                                       N
+       C.C. REAL ORDEN CABALLEROS, 5  Valencia                       46540 H97369045               
+001198 REAL ORDEN DE LOS CABALLEROS 7 REAL ORDEN CABALLEROS, 7       EL PUIG                                       N
+       C.C. REAL ORDEN CABALLEROS, 7  Valencia                       46540 H97369045               
+001200 REAL ORDEN DE LOS CABALLEROS 1 REAL ORDEN CABALLEROS, 11      VALENCIA                                      N
+       C.C. REAL ORDEN CABALLEROS, 11 Valencia                       46540 H97369045               
+001204 CADIZ 5                        CADIZ, 5                       VALENCIA                      963.41.00.32    N
+       C.C. CADIZ, 5                  Valencia                       46006 H96352836               
+001205 BLASCO IBAÑEZ 84               BLASCO IBAÑEZ, 84              VALENCIA                      963.51.60.39    N
+       C.C. BLASCO IBAÑEZ, 84         Valencia                       46021 E46311403               963.52.54.59
+001208 GARAJE CHILE 17 Y 19           CHILE 17 Y 19                  VALENCIA                                      N
+       C.C. DEL GARAJE CHILE 17 Y 19  Valencia                       46021 H46976395               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001209 PLAZA DE LOS ANGELES 8         PZA. DE LOS ANGELES 8          VALENCIA                                      N
+       C.C. PZA. DE LOS ANGELES 8     Valencia                       46011 H46873568               
+001210 TERESA JUST MARTINEZ           DOCTOR ROMAGOSA, 14 -1ª        VALENCIA                      696.477.538     N
+       TERESA JUST MARTINEZ           Valencia                       46002 25401998Q               
+001211 JOSE ANDREU ALABARTA 46        JOSE ANDREU ALABARTA 46        VALENCIA                                      N
+       C.C. JOSE ANDREU ALABARTA 46   Valencia                       46014 H96027800               
+001213 CADIZ 42                       CADIZ 42                       VALENCIA                                      N
+       C.C. CADIZ 42                  Valencia                       46006 H96909965               
+001214 BELCHITE 19                    BELCHITE 23 BAJO 1             VALENCIA                                      N
+       JUAN ALFONSO GARRIDO           Valencia                       46009 19500123X               
+001215 MAESTRO SERRANO 15             MAESTRO SERRANO 15             ALBALAT DELS SORELLS                          N
+       C.C. MAESTRO SERRANO 15        Valencia                       46135 H97426969               
+001216 MAESTRO SERRANO 17             MAESTRO SERRANO 17             ALBALAT DELS SORELLS                          N
+       C.C. MAESTRO SERRANO 17        Valencia                       46135 H97426969               
+001217 MAESTRO SERRANO 19             MAESTRO SERRANO 19             ALBALAT DELS SORELLS                          N
+       C.C. MAESTRO SERRANO 19        Valencia                       46135 H97426969               
+001218 BARRACAS 31                    BARRACAS 31                    ALBALAT DELS SORELLS                          N
+       C.C. BARRACAS 31               Valencia                       46135 H97426969               
+001219 BARRACAS 33                    BARRACAS 33                    ALBALAT DELS SORELLS                          N
+       C.C. BARRACAS 33               Valencia                       46135 H97426969               
+001220 GARAJE MTRO. SERRANO/BARRACAS  BARRACAS 31-33                 ALBALAT DELS SORELLS                          N
+       C.C. GARAJE MTRO SERRANO/BARRA Valencia                       46135 H97426985               
+001223 ACTOR LLORENS 21               ACTOR LLORENS 21               VALENCIA                                      N
+       C.C. ACTOR LLORENS 21          Valencia                       46021 H96572631               96.323.16.70
+001224 AVDA. INSTITUT 18              AVDA INSTITUT 18               EL PUIG                                       N                                                                                 
+       AVDA INSTITUT 18               Valencia                       46540 H97369045               
+001225 TRES CRUCES 86                 TRES CRUCES 86                 VALENCIA                                      N
+       C.C. TRES CRUCES 86            Valencia                       46014 H96004189               
+001226 GARAJE PEDRO ALEIXANDRE 56     PEDRO ALEIXANDRE 56            VALENCIA                                      N
+       C.C. GARAJE PEDRO ALEIXANDRE 5 Valencia                       46006 H46767745               
+001227 BELCHITE 21                    BELCHITE 23 BAJO 1             VALENCIA                      963484232       N
+       JUAN ALFONSO GARRIDO           Valencia                       46009 19500123X               
+001228 ALBERIQUE 35                   ALBERIQUE 35                   VALENCIA                      96.340.73.13    N
+       C.C. ALBERIQUE 35              Valencia                       46008 H96073952               
+001229 CUBA, 65                       CUBA, 65                       VALENCIA                      96 341 88 41    N
+       C.C. CUBA, 65                  Valencia                       46006 H96004809               
+001230 VICENTE MAROTO, 6              VICENTE MAROTO, 6              VALENCIA                                      N
+       C.C. VICENTE MAROTO, 6         Valencia                       46018 H96694229               
+001232 ORDEN DE LA MERCED 23          ORDEN DE LA MERCED 23          EL PUIG                                       N
+       C.C. ORDEN DE LA MERCED 23     Valencia                       46540                         
+001233 GARAJE ORDEN DE LA MERCED 23   ORDEN DE LA MERCED 23          EL PUIG                                       N
+       C.C. GARAJE ORDEN DE LA MERCED Valencia                       46540                         
+001234 ACTOR LLORENS 32               ACTOR LLORENS 32               VALENCIA                                      N
+       C.C. ACTOR LLORENS 32          Valencia                       46021                         
+001235 GARAJE MANUEL MARTÍ 8          MANUEL MARTÍ 8                 VALENCIA                                      N
+       C.C. GARAJE MANUEL MARTÍ 8     Valencia                       46021                         
+001236 EMBARCADERO 5                  CALLE EMBARCADERO 5            EL SALER                                      N
+       C.C.CALLE EMBARCADERO 5        Valencia                       46012 H96174502               
+001239 VICENTE BALLESTER 2            VICENTE BALLESTER 2   PTA.4    VALENCIA                                      N
+       VICENTE BALLESTER 2            Valencia                       46011 FALTA SU NIF            
+001241 SAN VICENTE MÁRTIR 144         SAN VICENTE 144                VALENCIA                                      N
+       CC SAN VICENTE MÁRTIR 144      Valencia                       46007 H96058193               
+001243 POETA MAS Y ROS 7              POETA MAS Y ROS 7              VALENCIA                                      N
+       C.C. POETA MAS Y ROS 7         Valencia                       46021 H46783569               
+001245 PINTOR FERRER CALATAYUD 3      PINTOR FERRER CALATAYUD        VALENCIA                                      N
+       C.C. PINTOR FERRER CALATAYUD 3 Valencia                       46022 H46780300               
+001248 GARAJE SAN VICENTE 144         SAN VICENTE 144                VALENCIA                                      N
+       C.C. GARAJE SAN VICENTE 144    Valencia                       46007 H96058193               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001249 ACTOR LLORENS 27               ACTOR LLORENS 27  (BUZÓN DE LA VALENCIA                                      N
+       C.C. ACTOR LLORENS 27          Valencia                       46021 H96756770               
+001251 JOSE MONTERDE 17               JOSE MONTERDE 17               EL PUIG                       606001503       N
+       C.C. JOSE MONTERDE 17          Valencia                       46540 H46787420               
+001252 BLASCO IBAÑEZ 186              BLASCO IBAÑEZ 186              VALENCIA                                      N
+       C.C. BLASCO IBAÑEZ 186         Valencia                       46022 H46676557               
+001262 AVDA. NAVARRO REVERTER 18      AVDA. NAVARRO REVERTER 18      VALENCIA                                      N
+       AVDA. NAVARRO REVERTER 18      Valencia                       46004 H97334262               
+001264 JUAN JOSE LAGUARDA 6           JUAN JOSE LAGUARDA 6           BURJASOT                                      N
+       JUAN JOSE LAGUARDA 6           Valencia                       46100 H97534457               
+001265 GARAJE JUAN JOSE LAGUARDA 6    JUAN JOSE LAGUARDA 6           BURJASOT                                      N
+       GARAJE JUAN JOSE LAGUARDA 6    Valencia                       46100 H97534457               
+001269 AVDA. DEL PUERTO 41            AVDA. DEL PUERTO 41            VALENCIA                                      N
+       AVDA. DEL PUERTO 41            Valencia                       46021                         
+001274 MANUEL CANDELA 22              MANUEL CANDELA 22              VALENCIA                                      N
+       MANUEL CANDELA 22              Valencia                       46021 H46865119               
+001276 BLASCO IBAÑEZ 198              BLASCO IBAÑEZ 198              VALENCIA                                      N
+       BLASCO IBAÑEZ 198              Valencia                       46021 H46675369               
+001279 LINTERNA 33                    LINTERNA 33                    VALENCIA                                      N
+       LINTERNA 33                    Valencia                       46001 H46887360               
+001282 MAESTRO GOZALBO 6              MAESTRO GOZALBO 6 PTA.3        VALENCIA                                      N
+       MAESTRO GOZALBO 6              Valencia                       46005 FALTA SU NIF            
+001284 SAN JACINTO 20                 SAN JACINTO 20                 VALENCIA                                      N
+       SAN JACINTO 20                 Valencia                       46008 H46476164               
+001288 MIGUEL SERVET 18               MIGUEL SERVET 18               VALENCIA                                      N                                                                                 
+       MIGUEL SERVET 18               Valencia                       46015 H46892246               
+001289 VICENTE BRULL 11 DUPL.         VICENTE BRULL 11 DUPL.         VALENCIA                                      N
+       VICENTE BRULL 11 DUPL.         Valencia                       46011 H97745939               
+001293 ANTIGUO REINO DE VALENCIA 21   ANTIC REGNE DE VALENCIA 21     VALENCIA                      96.310.75.10    N
+       ANTIC REGNE DE VALENCIA 21     Valencia                       46005 G46093449               96.310.75.11
+001294 SERRELLA 21                    SERRELLA 21                    PINEDO                                        N
+       SERRELLA 21                    Valencia                       46012 H46782579               
+001295 TRES CRUCES 90                 TRES CRUCES 90                 VALENCIA                                      N
+       TRES CRUCES 90                 Valencia                       46014 H96004163               
+001297 MATEMATICO MARZAL 9            MATEMATICO MARZAL 9            VALENCIA                                      N
+       MATEMATICO MARZAL 9            Valencia                       46007 H97064042               
+001301 PLAZA EDUARDO MARQUINA 18      PZA. EDUARDO MARQUINA 18       VALENCIA                                      N
+       PZA. EDUARDO MARQUINA 18       Valencia                       46014 H46879599               
+001302 GARAJE BASCULA 13              BASCULA 13                     MASSALFASSAR                                  N
+       BASCULA 13                     Valencia                       46560 FALTA SU NIF            
+001305 RODRIGUEZ DE CEPEDA 20         RODRIGUEZ DE CEPEDA 20         VBALENCIA                                     N
+       RODRIGUEZ DE CEPEDA 20         Valencia                       46021 H46785796               
+001306 RODRIGUEZ DE CEPEDA 22         RODRIGUEZ DE CEPEDA 22         VALENCIA                                      N
+       RODRIGUEZ DE CEPEDA 22         Valencia                       46021 H46785796               
+001308 GARAJE RUGAT 2 Y 4             RUGAT 2 Y 4                    VALENCIA                                      N
+       GARAJE RUGAT 2 Y 4             Valencia                       46021 H96751987               
+001309 GARAJE RODRIGUEZ DE CEPEDA 20  RODRIGUEZ DE CEPEDA 20 Y 22    VALENCIA                                      N
+       GARAJE RODRIGUEZ DE CEPEDA 20  Valencia                       46021 H46785796               
+001311 CONDE SALVATIERRA, 34          CONDE SALVATIERRA, 34          VALENCIA                                      N
+       CC CONDE SALVATIERRA, 34       Valencia                       46004 H-96054598              
+001312 ACTOR LLORENS 25               ACTOR LLORENS, 25              VALENCIA                      96.334.20.90    N
+       C.C. ACTOR LLORENS, 25         Valencia                       46021 H46912226               
+001317 DEL MAR 47                     DEL MAR 47                     VALENCIA                                      N
+       C.C. DEL MAR 47                Valencia                       46003 H97042485               
+001319 GARAJE MUSICO GINES 2-4        MUSICO GINES 2                 VALENCIA                                      N
+       GARAJE MUSICO GINES 2          Valencia                       46021 H46805511               
+001320 CONDE ALTEA 51                 CONDE ALTEA 51                 VALENCIA                                      N
+       C.C. CONDE ALTEA, 51           Valencia                       46005 H46877262               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001322 AVDA. DEL PUERTO 111           AVDA. DEL PUERTO 111           VALENCIA                                      N
+       AVDA. DEL PUERTO 111           Valencia                       46021 H46729315               
+001324 ACTOR LLORENS 20               ACTOR LLORENS 20               VALENCIA                                      N
+       C.C. ACTOR LLORENS 20          Valencia                       46021 H96905336               
+001327 FRANCISCO SEMPERE 1            FRANCISCO SEMPERE 1            VALENCIA                                      N
+       CC FRANCISCO SEMPERE 1         Valencia                       46006 H96087531               
+001328 ARTES Y OFICIOS 19             ARTES Y OFICIOS 19             VALENCIA                                      N
+       ARTES Y OFICIOS 19             Valencia                       46021 H96068457               
+001331 LUIS MILAN 2                   LUIS MILAN 2 PTA 4             VALENCIA                                      N
+       LUIS MILAN 2                   Valencia                       46021 H96335997               
+001332 BLASCO IBAÑEZ 20               BLASCO IBAÑEZ 20               MASSALFASSAR                                  N
+       BLASCO IBAÑEZ 20               Valencia                       46560 H96371786               
+001333 FIGUERETA 58                   FIGUERETA 58                   CASTELLAR                                     N
+       FIGUERETA 58                   Valencia                       46026 H97240519               
+001334 ADOR 69                        ADOR 69                        CASTELLAR                                     N
+       ADOR 69                        Valencia                       46026 H97240543               
+001336 SERPIS 19                      SERPIS 19                      VALENCIA                                      N
+       SERPIS 19                      Valencia                       46021 E46585337               
+001337 GUILLEM ESCRIVÁ 28             GUILLEM ESCRIVÁ 28, PTA.4      VALENCIA                                      N
+       C.C.GUILLEM ESCRIVÁ 28         Valencia                       46011 H97184865               
+001338 SERPIS 17                      SERPIS 17                      VALENCIA                                      N
+       SERPIS 17                      Valencia                       46021 E46435103               
+001339 SERPIS 24                      SERPIS 24                      VALENCIA                                      N
+       SERPIS 24                      Valencia                       46021 H96631593               
+001340 VINALOPO 13                    VINALOPO 13                    VALENCIA                      963601583       N                                                                                 
+       VINALOPO 13 -16                Valencia                       46021 H46744959               
+001342 ABADIA 3                       ABADIA 3                       ALBALAT DELS SORELLS                          N
+       ABADIA 3                       Valencia                       46135 H97886683               
+001345 GARAJE ABADIA 3                ABADIA 3                       ALBALAT DELS SORELLS                          N
+       GARAJE ABADIA 3                Valencia                       46135 H97886683               
+001346 GARAJE GRAN VIA GERMANIAS 45   G.V.GERMANIAS 45               VALENCIA                                      N
+       GARAJE G.V.GERMANIAS 45        Valencia                       46006 H46699138               
+001347 GRAN VIA GERMANIAS 45          G.V.GERMANIAS 45               VALENCIA                                      N
+       G.V.GERMANIAS 45               Valencia                       46006 H46699138               
+001348 SAN JOSE MONTAÑA 14 DUPL       SAN JOSE MONTAÑA 14 DUPL       VALENCIA                                      N
+       SAN JOSE MONTAÑA 14 DUPL       Valencia                       46008 H46751806               
+001349 CENTELLES 54                   CENTELLES 54                   VALENCIA                                      N
+       CENTELLES 54                   Valencia                       46006 H46737037               
+001350 GARAJE CENTELLES 54            CENTELLES 54                   VALENCIA                                      N
+       GARAJE CENTELLES 54            Valencia                       46006 H46737029               
+001351 CREVILLENTE 28                 CREVILLENTE 28                 VALENCIA                                      N
+       CREVILLENTE 28                 Valencia                       46022 H46759148               
+001352 MARIANO RIBERA 27              MARIANO RIBERA 27              VALENCIA                                      N
+       MARIANO RIBERA 27              Valencia                       46018 H46868782               
+001353 MAESTRO SOSA 12                C.C MAESTRO SOSA 12            VALENCIA                                      N
+       C.C.MAESTRO SOSA  12           Valencia                       46007 H98052178               
+001354 ALBACETE 60                    C.C. ALBACETE 60               VALENCIA                      963.808.003     N
+       C.C. ALBACETE 60               Valencia                       46007 H98052178               
+001355 ALBACETE 62                    C.C. ALBACETE 62               VALENCIA                                      N
+       C.C. ALBACETE 62               Valencia                       46007 H98052178               
+001356 GIORGETA 13                    C.C. GIORGETA 13               VALENCIA                                      N
+       C.C. GIORGETA 13               Valencia                       46007 H98052178               
+001357 GIORGETA 11                    C.C. GIORGETA 11               VALENCIA                                      N
+       C.C. GIORGETA 11               Valencia                       46007 H98052178               
+001359 ADOR 43                        ADOR, 43 PTA. 6                CASTELLAR (VALENCIA)                          N
+       ADOR, 43                       Valencia                       46026 H46873758               
+001361 GARAJE GUILLEN DE CASTRO 58    GUILLEN DE CASTRO 58           VALENCIA                                      N
+       GARAJE GUILLEN DE CASTRO 58    Valencia                       46008 H46692612               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001363 AVDA. DEL PUERTO 156           AVDA. DEL PUERTO 156           VALENCIA                                      N
+       AVDA. DEL PUERTO 156           Valencia                       46022                         
+001368 EN SANZ, 5                     EN SANZ 5                      VALENCIA                                      N
+       C.C.EN SANZ 5                  Valencia                       46001                         
+001369 PLAZA FELIPE NERI 5            PZA. FELIPE NERI 5             VALENCIA                                      N
+       PZA. FELIPE NERI 5             Valencia                       46021 H96144357               
+001370 GIORGETA 11 Y 13, ALBACETE 60  GIORGETA 11 Y 13, ALBACETE 60  VALENCIA                                      N
+       GIORGETA 11 Y 13, ALBACETE 60  Valencia                       46007 H98052178               
+001371 AVILES 5                       AVILES 5                       PUEBLA DE FARNALS                             N
+       AVILES 5                       Valencia                       46137 H97467252               
+001373 GRAN VIA MARQUES DEL TURIA 52  GRAN VIA MARQUES DEL TURIA 52  VALENCIA                                      N
+       GRAN VIA MARQUES DEL TURIA 52  Valencia                       46005 H46889242               
+001374 GARAJE SAN ISIDRO LABRADOR 1   SAN ISIDRO LABRADOR 1          ALBORAYA                                      N
+       GARAJE S. ISIDRO LABRADOR 1    Valencia                       46120                         
+001375 BEATRIZ TORTOSA 37             BEATRIZ TORTOSA 37             VALENCIA                                      N
+       BEATRIZ TORTOSA 37             Valencia                       46021 H98125719               
+001376 ANTIGUO REINO DE VALENCIA 78   ANTIGUO REINO DE VALENCIA 78   VALENCIA                                      N
+       ANTIGUO REINO DE VALENCIA 78   Valencia                       46005 H96035977               
+001380 GARAJE SILLA 28                SILLA 28                       BENIMAMET                                     N
+       C.C. GARAJE SILLA 28           Valencia                       46035 H97893051               
+001382 REAL ORDEN DE LOS CABALLEROS 9 REAL ORDEN DE LOS CABALLEROS 9 EL PUIG                                       N
+       REAL ORDEN DE LOS CABALLEROS 9 Valencia                       46540 H97369045               
+001383 JUAN JOSE SISTER 8             J.J. SISTER 8                  VALENCIA                                      N
+       JJ SISTER 8                    Valencia                       46024 H96531900               
+001384 JUAN JOSE SISTER 10            J.J.SISTER 10                  VALENCIA                                      N                                                                                 
+       JJ SISTER 10                   Valencia                       46024 H96531900               
+001385 JUAN BAUTISTA LLOVERA 20       JUAN BAUTISTA LLOVERA 20       VALENCIA                                      N
+       JUAN BAUTISTA LLOVERA 20       Valencia                       46024 H96531900               
+001388 BAMO INMUEBLES S.L.            PZA. BAILLARGUES 4 PTA 3       ROCAFORT                      96.351.81.88    N
+       BAMO INMUEBLES S.L.            Valencia                       46111 B96483904               
+001389 DR. SUMSI 48                   DR SUMSI 48                    VALENCIA                                      N
+       DR. SUMSI 48                   Valencia                       46005 H46781522               
+001390 LEANDRO DE SARALEGUI 6         LEANDRO DE SARALEGUI 6         VALENCIA                                      N
+       LEANDRO DE SARALEGUI 6         Valencia                       46021 H96543699               
+001392 MOSEN JOSE CUENCA 28           MOSEN JOSE CUENCA 28, PTA.4    PINEDO                        963.24.85.71    N
+       MOSEN JOSE CUENCA 28           Valencia                       46012 H96840533               
+001395 PALOMAR 10                     PALOMAR 10                     VALENCIA                                      N
+       PALOMAR 10                     Valencia                       46001 H98164882               
+001396 GARAJE PALOMAR 10              PALOMAR 10                     VALENCIA                                      N
+       GARAJE PALOMAR 10              Valencia                       46001 H98164882               
+001397 ENTRADA LARRASO 6              ENTRADA LARRASO 6              PINEDO                                        N
+       ENTRADA LARRASO 6              Valencia                       46012 H96048848               
+001398 SILLA 28                       SILLA 28                       BENIMAMET                                     N
+       C.C.SILLA 28                   Valencia                       46035 H97893051               
+001399 SANTOS JUSTO Y PASTOR 79       SANTOS JUSTO Y PASTOR 79       VALENCIA                                      N
+       SANTOS JUSTO Y PASTOR 79       Valencia                       46022 H46876488               
+001400 SALVADOR SASTRE 16             SALVADOR SASTRE 16             VALENCIA                                      N
+       SALVADOR SASTRE 16             Valencia                       46007 H963942628              
+001401 PAU 6                          PAU 6                          MELIANA                                       N
+       PAU 6                          Valencia                       46133 H97821078               
+001402 PORTADORS DE LA VERGE 13       PORTADORS DE LA VERGE 13       PINEDO                                        N
+       PORTADORS DE LA VERGE 13       Valencia                       46012 H97961874               
+001403 PORTADORS DE LA VERGE 14       PORTADORS DE LA VERGE 14       PINEDO                                        N
+       PORTADORS DE LA VERGE 14       Valencia                       46012 H97961874               
+001404 LO RAT PENAT 11                LO RAT PENAT 11                VALENCIA                                      N
+       LO RAT PENAT 11                Valencia                       46023 H96293436               
+001405 GARAJE PAU 6                   PAU 6                          MELIANA                                       N
+       GARAJE PAU 6                   Valencia                       46133 H97821078               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001406 GARAJE PORTADORS DE LA VERGE 1 PORTADORS DE LA VERGE 13 Y 15  PINEDO                                        N
+       GARAJE PORTADORS DE LA VERGE 1 Valencia                       46012 H97961874               
+001407 VERTICE ARQUIMEDES SL          C/BALMES 195 7º PUERTA 4       BARCELONA                                     N
+       VERTICE ARQUIMEDES SL          Valencia                       08006 B66295916               
+001408 LOPE DE RUEDA 46               LOPE DE RUEDA 46               VALENCIA                                      N
+       LOPE DE RUEDA 46               Valencia                       46001 H97457030               
+001409 ALGINET 9                      ALGINET 9                      VALENCIA                                      N
+       ALGINET 9                      Valencia                       46010 H96818323               
+001410 MUSICO GINES 4                 MUSICO GINES 4                 VALENCIA                                      N
+       MUSICO GINES 4                 Valencia                       46022 H46812483               
+001411 ADOR 59                        ADOR, 59                       CASTELLAR                     616.357541      N
+       C.C. ADOR, 59                  Valencia                       46026 H46998258               
+001413 MAYOR 22                       MAYOR 22, PTA.11               FOIOS                                         N
+       MAYOR 22                       Valencia                       46134 H96272836               
+001414 MOSEN JOSE CUENCA 30           MOSEN JOSE CUENCA, 30          PINEDO                                        N
+       MOSEN JOSE CUENCA, 30          Cuenca                         46012 H97531297               
+001417 MONTAÑARES 17                  CAMINO MONTAÑARES 17           VALENCIA                                      N
+       MONTAÑARES 17                  Valencia                       46012 H46786430               
+001418 ARTES Y OFICIOS 25             ARTES Y OFICIOS 25             VALENCIA                                      N
+       ARTES Y OFICIOS 25             Valencia                       46021 H46864989               
+001424 JUAN ALFONSO GARRIDO           BELCHITE 23 BAJO 1º            VALENCIA                                      N
+       JUAN ALFONSO GARRIDO           Valencia                       46009 19500123X               
+001426 JULIO ANTONIO, 3               C/JULIO ANTONIO 3              VALENCIA                                      N
+       C.C.JULIO ANTONIO 3            Valencia                       46007 H46860565               
+001428 PELAYO 19                      PELAYO 19                      VALENCIA                                      N                                                                                 
+       CC PELAYO 19                   Valencia                       46007 H97216931               
+001432 CARDA 1                        CARDA 1                        VALENCIA                                      N
+       CARDA 1                        Valencia                       46001 H98265556               
+001433 GARAJE CARDA 1                 CARDA 1                        VALENCIA                                      N
+       GARAJE CARDA 1                 Valencia                       46001 H98265556               
+001438 ENTRADA LARRASO 8              ENTRADA LARRASO, 8             PINEDO                                        N
+       ENTRADA LARRASO, 8             Valencia                       46012 H46808259               
+001439 GARAJE FIGUERETA 54            FIGUERETA 54 PTA.1             CASTELLAR (VALENCIA)                          N
+       GARAJE FIGUERETA 54            Valencia                       46012 H46926911               
+001440 GARAJE ALGINET 9               ALGINET 9                      VALENCIA                                      N
+       GARAJE ALGINET 9               Valencia                       46010 H96818323               
+001443 SAN VICENTE MÁRTIR 24          SAN VICENTE 24                 VALENCIA                                      N
+       CC SAN VICENTE MÁRTIR 24       Valencia                       46002 H46679098               
+001444 LA UNIO 10                     LA UNIO 10                     ALBORAYA (PORTSAPLAYA)                        N
+       LA UNIO 10                     Valencia                       46128 H96233051               
+001445 ARTES Y OFICIOS 6              ARTES Y OFICIOS 6              VALENCIA                      963692912       N
+       C.C. ARTES Y OFICIOS 6         Valencia                       46021 H97272488               
+001446 ARTES Y OFICIOS 7              ARTES Y OFICIOS 7              VALENCIA                                      N
+       C.C.ARTES Y OFICIOS 7          Valencia                       46021 FALTA SU NIF            
+001447 MOSEN JOSE CUENCA 36           MOSEN CUENCA 36                PINEDO                                        N
+       MOSEN CUENCA 36                Valencia                       46012 H96440144               
+001448 GARAJE MOSEN CUENCA 36         MOSEN CUENCA 36                PINEDO                                        N
+       GARAJE MOSEN CUENCA 36         Valencia                       46012 H96440144               
+001450 VIRGEN DEL MAR 17              VIRGEN DEL MAR 17              PINEDO                                        N
+       CC VIRGEN DEL MAR 17           Valencia                       46012 H46843603               
+001451 DEL RIU 319                    CALLE DEL RIU 319              PINEDO                                        N
+       C.C.CALLE DEL RIU 319          Valencia                       46012 H97867964               
+001452 GARAJE DEL RIU 319             CALLE DEL RIU 319              PINEDO                                        N
+       C.C.DEL GARAJE DE LA CALLE DEL Valencia                       46012 H97867964               
+001454 GARRIGUES 1                    CALLE GARRIGUES 1              VALENCIA                                      N
+       C.C.GARRIGUES 1                Valencia                       46001 H46776555               
+001455 ALBACETE 45                    ALBACETE 45                    VALENCIA                                      N
+       C.C.ALBACETE 45                Valencia                       46007 H46717211               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001457 COLÓN 70                       COLÓN 70                       VALENCIA                                      N
+       C.C.COLÓN 70                   Valencia                       46004 H96029236               
+001458 ACTOR LLORENS 30               ACTOR LLORENS, 30              VALENCIA                                      N
+       C.C.ACTOR LLORENS, 30          Valencia                       46021 H96272190               
+001459 EMBARCADERO 10                 CALLE EMBARCADERO 10           EL SALER                                      N
+       C.C.EMBARCADERO 10             Valencia                       46012 H98331069               
+001460 BARÓN DE CÁRCER 21             AV. BARÓN DE CÁRCER 21         VALENCIA                                      N
+       C.C.BARÓN DE CÁRCER 21         Valencia                       46001 E46127304               
+001461 ARTES Y OFICIOS 21             ARTES Y OFICIOS 21, PTA. 3     VALENCIA                                      N
+       CC ARTES Y OFICIOS 21          Valencia                       46021 H96043914               
+001462 TRAVESÍA PINEDO AL MAR, 55     CALLE TRAVESÍA PINEDO AL MAR,  PINEDO (VALENCIA)                             N
+       CC TRAVESÍA PINEDO AL MAR, 55  Valencia                       46012 H97087332               
+001463 GRAN VIA MARQUES DEL TURIA 7   GRAN VIA MARQUES DEL TURIA 7   VALENCIA                                      N
+       C.C. G.V.MARQUES TURIA, 7      Valencia                       46005 H46604203               
+001464 MONCADA 27                     MONCADA 27                     MUSEROS                                       N
+       C.C. MONCADA 27                Valencia                       46136 H98239346               
+001465 GARAJE MONCADA 27              MONCADA 27                     MUSEROS                                       N
+       GARAJE MONCADA 27              Valencia                       46136 H98239346               
+001466 GRAN VIA MARQUES DEL TURIA 5   GRAN VIA MARQUES DEL TURIA 5   VALENCIA                                      N
+       GRAN VIA MARQUES DEL TURIA 5   Valencia                       46005 H46743928               
+001467 PLAZA MAYOR 3                  PLAZA MAYOR 3                  PINEDO                                        N
+       PLAZA MAYOR 3                  Valencia                       46012 H96031687               
+001468 AVDA. PINARES 14               AVDA. PINARES 14               EL SALER (VALENCIA)                           N
+       AVDA. PINARES 14               Valencia                       46012 H97113351               
+001469 CAMINO TREMOLAR 183            CAMINO TREMOLAR 183            PINEDO (VALENCIA)                             N                                                                                 
+       CAMINO TREMOLAR 183            Valencia                       46012 H97338875               
+001471 MAESTRO SERRANO 16             MAESTRO SERRANO 16             ALBALAT DELS SORELLS                          N
+       MAESTRO SERRANO 16             Valencia                       46135 FALTA SU NIF            
+001472 RESIDENCIAL BELVALLE           REAL ORDEN CABALLEROS          EL PUIG                                       N
+       RESIDENCIAL BELVALLE           Valencia                       46540 H97369045               
+001473 GARAJE AVILES 5                AVILES 5                       PUEBLA DE FARNALS                             N
+       GARAJE AVILES 5                Valencia                       46137 H97467252               
+001475 BARÓN DE CÁRCER 38             AVDA. BARON DE CARCER 38       VALECIA                                       N
+       C.C.BARON DE CARCER 38         Valencia                       46001 E46122438               
+001476 JOAQUIN COSTA 44               JOAQUIN COSTA 44               VALECIA                                       N
+       CC JOAQUIN COSTA 44            Valencia                       46005 H96189873               
+001477 JESUS 116                      JESUS 116                      VALENCIA                                      N
+       CC JESUS 116                   Valencia                       46007 H97360366               
+001478 DEL RIU 323                    DEL RIU 323                    PINEDO                                        N
+       CC DEL RIU 323                 Valencia                       46012 H98345150               
+001479 AVDA. DEL PUERTO 45            AVDA. DEL PUERTO 45            VALENCIA                                      N
+       CC AVDA. DEL PUERTO 45         Valencia                       46021 H98317647               
+001480 MOSEN JOSE CUENCA 15           MOSEN JOSE CUENCA 15           PINEDO (VALENCIA)                             N
+       MOSEN JOSE CUENCA 15           Valencia                       46012 FALTA SU NIF            
+001481 PLAZA XUQUER 11                PLAZA XUQUER 11                VALENCIA                                      N
+       PLAZA XUQUER 11                Valencia                       46021                         
+001483 GARAJE RESIDENCIAL LUZ 1       PASAJE RESIDENCIAL LUZ 1       VALENCIA                                      N
+       GARAJE COM.RESIDENCIAL LUZ 1   Valencia                       46010 H46698692               
+001484 GARAJE RICARDO APARISI 10      RICARDO APARISI 10             PINEDO                                        N
+       GARAJE RICARDO APARISI 10      Valencia                       46012 H96650478               
+001485 PELAYO 33                      PELAYO 33                      VALENCIA                                      N
+       CC PELAYO 33                   Valencia                       46007 H96530662               
+001486 GARAJE MOLI 59 - 61            MOLI 59 -61                    MUSEROS                                       N
+       GARAJE EL MOLI 59 - 61         Valencia                       46136 H97591457               
+001487 EMBARCADERO 4                  CALLE EMBARCADERO 4            EL SALER                                      N
+       C.C.EMBARCADERO 4              Valencia                       46012 H46902425               
+001488 SAN JACINTO CASTAÑEDA 17       CALLE SAN JACINTO CASTAÑEDA 17 VALENCIA                                      N
+       SAN JACINTO CASTAÑEDA 17       Valencia                       46006 H97879175               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+001489 RICARDO APARISI 6              CALLE RICARDO APARISI 6        CASTELLAR (VALENCIA)                          N
+       RICARDO APARISI 6              Valencia                       46013 H96784400               
+001490 ESTEBAN BALLESTER 21           ESTEBAN BALLESTER 21           VALENCIA                                      N
+       C.C.ESTEBAN BALLESTER 21       Valencia                       46022 H98213671               
+001491 GUILLEM DE CASTRO 9            GUILLEM DE CASTRO 9            VALENCIA                                      N
+       CC GUILLEM DE CASTRO 9         Valencia                       46007 H96116330               
+001492 GARAJE DEL RIU 323             CARRER DEL RIU 323             PINEDO                                        N
+       C.C. DEL GARAJE CARRER DEL RIU Valencia                       46012 H98345150               
+001493 GARAJE JJ SISTER 8-10 Y JB LLO C/JUAN JOSE SISTER 8-10        VALENCIA                                      N
+       C.C. DEL GARAJE C/JUAN JOSE SI Valencia                       46024 H96531900               
+001494 GARAJE RICARDO APARISI 6       C/RICARDO APARISI 6            CASTELLAR                                     N
+       C.C. DEL GARAJE DE LA C/ RICAR Valencia                       46013 H96784400               
+001495 HERMANOS BOLÓS DAMIÁ CB        CALLE SANTA ANA 27 - B         PAIPORTA (VALENCIA)           961975537       N
+       HERMANOS BOLÓS SAMIÁ CB        Valencia                       46200 H98704547               
+001496 ARTES Y OFICIOS 34             ARTES Y OFICIOS 34             VALENCIA                                      N
+       CC ARTES Y OFICIOS 34          Valencia                       46021 H46786471               
+001498 AVDA. CORTES VALENCIANAS 10    AVDA. CORTES VALENCIANAS 10    VALENCIA                                      N
+       CC AVDA. CORTES VALENCIANAS 10 Valencia                       46015 H96810205               
+001499 ALTA DEL MAR 75                CALLE ALTA DEL MAR 75          VALENCIA                                      N
+       CC ALTA DEL MAR 75             Valencia                       46024 H97543938               
+001501 BOLBAITE 4                     BOLBAITE 4                     VALENCIA                                      N
+       CC BOLBAITE 4                  Valencia                       46010 H46758553               
+001502 MAESTRO RODRIGO 11             CALLE MAESTRO RODRIGO 11       VALENCIA                                      N
+       CC MAESTRO RODRIGO             Valencia                       46024 H97079008               
+001503 GARAJE BURRIANA 19             BURRIANA 19                    VALENCIA                                      N                                                                                 
+       GARAJE BURRIANA 19             Valencia                       46005 H46789111               
+001504 GABINETE INVERSOR 2006 SL      CALLE PONZANO, 42              MADRID                                        N
+       GABINETE INVERSOR 2006 SL      Madrid                         28003 B84962141               
+001505 DEL RIU 313                    CALLE DEL RIU 313              PINEDO                                        N
+       C.C.CALLE DEL RIU 313          Valencia                       46012 FALTA SU NIF            
+001506 PLAZA DE LOS ANGELES 7         PLAZA DE LOS ANGELES 7         VALENCIA                                      N
+       PLAZA DE LOS ANGELES 7         Valencia                       46011 H46733861               
+001507 SANTOS JUSTO Y PASTOR 30       SANTOS JUSTO Y PASTOR 30       VALENCIA                                      N
+       CC SANTOS JUSTO Y PASTOR 30    Valencia                       46021 H97090328               
+001508 BURRIANA 19                    CALLE BURRIANA 19              VALENCIA                                      N
+       CC BURRIANA 19                 Valencia                       46005 H46789111               
+001509 BERENGUER DE MONTOLIU 8        BERENGUER DE MONTOLIU 8        VALENCIA                                      N
+       CC BERENGUER DE MONTOLIU 8     Valencia                       46011 H98166671               
+001510 GARAJE BERENGUER DE MONTOLIU 8 BERENGUER DE MONTOLIU 8        VALENCIA                                      N
+       GARAJE BERENGUER DE MONTOLIU 8 Valencia                       46011 H98258932               
+001511 SAN ROQUE 11                   CALLE SAN ROQUE 11             PATERNA (VALENCIA)                            N
+       CC SAN ROQUE 11                Valencia                       46980 H98779242               
+001512 GARAJE COLON 1                 CALLE COLÓN 1                  VALENCIA                                      N
+       GARAJE COLON 1                 Valencia                             H46604211               
+001513 ALBUIXECH 19                   CALLE ALBUIXECH 19             VALENICIA                                     N
+       CC ALBUIXECH 19                Valencia                       46021 H97976567               
+001514 CARDENAL BENLLOCH 92           CALLE CARDENAL BENLLOCH 92     VALENICIA                                     N
+       CC CARDENAL BENLLOCH 92        Valencia                       46021 H97976567               
+001515 GARAJE ALBUIXECH 19 Y CARDENAL CALLE ALBUIXECH 19 Y CARDENAL  VALENICIA                                     N
+       GARAJE ALBUIXECH 19 Y CARDENAL Valencia                       46021 H97976567               
+001516 VERGE DE LA MAR 25             VERGE DE LA MAR 25             PINEDO (VALENCIA)                             N
+       VERGE DE LA MAR 25             Valencia                       46012 H46896015               
+001517 ISLAS CANARIAS 30              ISLAS CANARIAS 30              VALENCIA                                      N
+       ISLAS CANARIAS 30              Valencia                       46023 H96979794               
+001518 BLASCO IBAÑEZ 52 A Y B         BLASCO IBAÑEZ 52               MUSEROS                                       N
+       BLASCO IBAÑEZ 52               Valencia                       46136 H98278617               
+001519 PADRE URBANO 19                PADRE URBANO 19                VALENCIA                                      N
+       PADRE URBANO 19                Valencia                       46009 FALTA SU NIF            
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+005001 ACTOR LLORENS 27               ACTOR LLORENS, 27  (BUZÓN DE L VALENCIA                                      N
+       C.C. ACTOR LLORENS, 27         Valencia                       46021                         
+005004 PERE MARCH, 23                 PERE MARCH, 23                 ALBALAT DELS SORELLS                          N
+       C.C. PERE MARCH, 23            Valencia                       46135                         
+005005 ANA SISTERNES BELTRAN          CALLE RUGAT 2, 5º, PTA.16      VALENCIA                      96.362.45.64    N
+       SRA.ANA SISTERNES BELTRAN      Valencia                       46021                         
+005006 JOSEFA SISTERNES BELTRAN       AV.DEL REINO REINO DE VALENCIA VALENCIA                      96.320.42.99    N
+       SRA.JOSEFA SISTERNES BELTRAN   Valencia                       46005                         
+005009 SAN ISIDRO LABRADOR, 1         SAN ISIDRO LABRADOR, 1         ALBORAYA                                      N
+       C.C. SAN ISIDRO LABRADOR, 1    Valencia                       46120                         
+005011 RAFAEL BARTUAL, 6              RAFAEL BARTUAL, 6              VALENCIA                      96.3365522      N
+       C.C. RAFAEL BARTUAL, 6         Valencia                       46014                         
+005015 CONDE ALTEA 49                 CONDE ALTEA, 49                VALENCIA                      96.3365522      N
+       C.C. CONDE ALTEA, 49           Valencia                       46005                         
+005018 VICTORIA GALLEGO SANZ          CALLE CARCAGENTE 32, PTA.4     VALENCIA                      658.177.413     N
+       VICTORIA GALLEGO SANZ          Valencia                       46007                         
+005027 ARTES Y OFICIOS 8              ARTES Y OFICIOS, 8             VALENCIA                                      N
+       C.C. ARTES Y OFICIOS, 8        Valencia                       46021                         
+005039 MATILDE                        Plaza del Poeta Vicente Gaos 5 VALENCIA                      96.383.80.24    N
+                                      Valencia                                                     
+005067 ESTHER (ALBALAT)               Calle de San Francisco de Asís Albalat dels Sorells          96.148.12.90    N
+       ESTHER                         Valencia                       46135                         
+005072 ANA GALLEGO SANZ               JERONIMO MUÑOZ 20 ESC.B, PTA.8 VALENCIA                                      N
+       ANA GALLEGO SANZ               Valencia                       46007                         
+005086 ARTES Y OFICIOS 16             ARTES Y OFICIOS 16             VALENCIA                                      N                                                                                 
+       C.C.ARTES Y OFICIOS 16         Valencia                       46021                         
+005087 MARIA ANGELES PEREZ PEREZ      CALLE BECHI 7, PUERTA 3        BENICALAP                     96.362.34.06    N
+       MARIA ANGELES PEREZ PEREZ      Valencia                       46025 22536863Z               
+005104 ACTOR LLORENS 32               ACTOR LLORENS 32               VALENCIA                                      N
+       C.C. ACTOR LLORENS 32          Valencia                       46021                         
+005112 GARAJE PEDRO DE VALENCIA Nº 6  PEDRO DE VALENCIA Nº 6         VALENCIA                                      N
+       C.C. GJE PEDRO DE VALENCIA Nº  Valencia                                                     
+005116 ELISA ORERO                    BLASCO IBAÑEZ, 134 - 59        VALENCIA                      96.355.05.14    N
+       ELISA ORERO                    Valencia                                                     
+005125 BEGOÑA MELERO                  ANGEL GUIMERÁ 35, PTA 10       VALENCIA                      96 384 77 20    N
+       BEGOÑA MELERO                  Valencia                                                     
+005148 ACTOR LLORENS 31               ACTOR LLORENS 31               VALENCIA                                      N
+       ACTOR LLORENS 31               Valencia                       46021 H96652185               
+005149 ACTOR LLORENS 29               ACTOR LLORENS 29               VALENCIA                      96.369.79.69    N
+       C.C.ACTOR LLORENS 29           Valencia                       46021                         
+005160 FUNDACION PROFESOR MANUEL BROS PZA TETUAN 11 PTA 9            VALENCIA                      96.392.23.17    N
+                                      Valencia                       46003 G96114475               96 3920 014
+005161 PLAZA ESCULTOR FCO. BADIA 2    PZA. ESCULTOR FCO. BADIA 2     FOIOS                                         N
+       PZA. ESCULTOR FCO. BADIA 2     Valencia                       46134                         
+005171 VICTORIA SANZ                  AVENIDA GIORGETA 24, ESC.1, 6º VALENCIA                      96.341.13.19    N
+       SRA. VICTORIA SANZ             Valencia                       46007                         
+005174 CONSUELO GARDE                 GRAN VIA FERNANDO EL CATÓLICO  VALENCIA                      96.391.54.02    N
+       SRA. CONSUELO GARDE            Valencia                       46008 FALTA SU NIF            
+005176 ENRIQUE RODRÍGUEZ              AVDA. GOLA DE PUCHOL 22, TORRE EL SALER (VALENCIA)           96.384.76.12    N
+       SR. ENRIQUE RODRÍGUEZ          Valencia                       46012 FALTA SU NIF            
+005177 JUAN JOSÉ OÑA                  CALLE CERVANTES 22             MASSALFASAR                   609.569.129     N
+       SR. JUANJO OÑA                 Valencia                       46560                         
+005178 FERRANDO MARTÍNEZ, LEONOR      FARMACEUTICO ESTEBAN ANDRÉS, 7 ALBORAYA (VALENCIA)           639.491.929     N
+       SRA. LEONOR FERRANDO MARTÍNEZ  Valencia                       46120 19491047L               
+006008 ALUMINIOS SALVADOR PASTOR SL   AV.DE LA HORCHATA 7 BAJO       ALBORAYA                      96.186.40.20    N
+       ALUMINIOS SALVADOR PASTOR SL   Valencia                       46120 B96372495               
+006023 BARÓN DE CÁRCER 50             AV. BARÓN DE CÁRCER 50         VALENCIA                                      N
+       C.C.BARÓN DE CÁRCER 50         Valencia                       46001 E46127056               
+
+
+Listado de Clientes
+Cód.   Nombre                         Dirección                      Población                     Teléfono        C
+       Nombre Comercial               Provincia                      C.P.  D.N.I / C.I.F.          Fax               
+------ ------------------------------ ------------------------------ ------------------------------------------------
+006031 GEISEREVENTS SL                CARRER MITGERA 3C, POL.IND.MED MASSALFASSAR                  660540120       N
+       GEISEREVENTS SL                Valencia                       46560 B98161979               
+006033 MAROTO, CONCEPCIÓN             CALLE SERPIS 19, PTA.14        VALENCIA                      609.646.584     N
+       SRA. CONCEPCIÓN MAROTO         Valencia                       46022 03431323E               
+006039 LEMON GRASS RESTAURANTE THAI S CALLE SALAMANCA Nº15, PUERTA 1 VALENCIA                      669913188       N
+       LEMON GRASS                    Valencia                       46005 B97974182               
+006058 PILAR (ABELLAUTO)              CALLE LEONES 45, PUERTA 10     VALENCIA                      96.322.43.88    N
+       SRA. PILAR                     Valencia                       46021                         
+006066 ALEJANDRO MARTI                CASAS DE BARCENAS 50 ( CAFETER CASAS DE BARCENAS                             N
+       TANET                                                         46131                         
+006067 SERV.ASIST.TÉCN. COACCIÓN VALE CALLE PUIG DE SANTA MARÍA 3, B ALBALAT DELS SORELLS          96.149.14.75    N
+       SAT COACCIÓN VALENCIA SL       Valencia                       46135 B98682321               
+006068 FALLA MOSEN JOSE CUENCA PINEDO CALLE MOSEN CUENCA 19 BAJO     PINEDO (VALENCIA)                             N
+                                      Valencia                       46021 G46788063               
+006069 CDAD. DE PROP. URBANIZACION PU PLAZA MAYOR 7B - IZQ           PINEDO (VALENCIA)                             N
+                                      Valencia                       46021 H46890802               
+006070 HISPANIA EDUCACIÓN Y COMUNICAC CALLE BERNAT I BALDOVÍ, 11     VALENCIA                      96.351.05.05    N
+       ESCUELA DE ESPAÑOL HISPANIA    Valencia                       46010 B98318264               
+006071 FALLA DELS SORELLS             CALLE SANTOS DE LA PIEDRA 10 B ALBALAT DELS SORELLS                          N
+       FALLA DELS SORELLS             Valencia                       46135 G46824066               
+
+
+
+
+                                                                                                                                                                                                     
+
+
+
+
+
+
+                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "limpiezasreig",
+  "private_key_id": "94a87e042f7313a18b7b6d6b7ca63c7a22820fdf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtycs/nOY7oVVL\nA3dfUmbFGALYUxqiGngijEfwq6kpRodKmOj39miypegjv0fyoXgKiy8Uyq2k0p4g\nwCX8TQb8wYn8v4bT0QoJ1i0GWZdZr9RfIUI2R+iNVoq4Rw0EwDxwtS3g2gyMX+0a\nqetnGc5NnCjJn22CoKKBwRZ1NRXr3OiBCTuxY1oLiZywh76vnkNL/5DduYo4XSPe\n0Q77eeqCYEgB8LSCAHapaetuoYZT1sM3VB37c5nH9L+C+4EcO+MI/Le9kXRmOkX5\ngxVuYaScP9xsErAMFtd4tR9nyadWqdktWaWljjYNcp2twISGMRXptv1Qcy2HD7xK\nxEZhWDJRAgMBAAECggEANm9u6o4Kz8LJJKYBTipRZosO2ROu0/fWiXvHTOt4ISWm\nWwdqccENKmgtPoU71BQfta3DIZAas/YE8d0+CLlX5vP4dOLJKK/hpRMhJ0wIzF72\n9pVEWBxOC3eAHBilS0erpuIZbMTgCVhCvIdc5P6AUG8Jl54If1IxlNMWZcArDaWv\nDzR6C+YNwBLofMuc6kqW9gTsTnaVuLuzE7e+vlM1ijiT8rNmov59zlXu5FQPB4At\naDYSzoQX4Bw7OJ7n4DYI+AoB9iBC3bK0cD/h8MdsgnlW46mdeNBXgGsdxl7gkmh/\n3UKHPMB9uj2Zr2VDYE/R4IVruhrYNDdgyrFgg/PxwQKBgQDxyDw1udfoFLTSWTVs\nWbJH/YjwBYLyn46Y9IvVk8EFWVj2sDWsT2cz8VyqjioK3nuNMZGYppevxAkCEfKj\nIQA7wGiFkIi9xxvoebddD2Cu5gR653nxHCXPzCjxgBQUPZm0qce0Egp/74Esznw9\nfS47QDmaNVmyltfaoSUBsp9CUwKBgQC4AfwydT+zu8Ls3SgZZTE0KmY81i6PBogo\n87aHJacWrSR44rLvLSW4rqCK+ZItfyStcBEy3g0ecJ1hy7IQeV0PdqI88vFBhYJN\n5hob7fOf/TFJnIjE5JhvBbS0+E/tEipz2yKMbBw5E20aHO9xESbxNHkLUUpWPHHi\nCSvMf2CsSwKBgQDdm/976wQ3R0tZhcTOtAQRshPik9qrUY3dKkBFGXGQ2o0NRwNb\nFUhttquN9FIatkOebbGarg9YXiE3kYXI+YWCPuBOk+SRtb8hvPZRSLgAdvniQOpn\nEbqilOluOUuuJawNiJRvux1+l+LZU8VSgrtuOXbSnlXBuDrOvGb0AGmy2wKBgCAM\nCHZpQTz2WI6UPeWeYCFruP6jdtxmENTBDWsgPaePZCjBotRREp7FmyRZLwJJgIPM\nXtJzJenFR0O/DDYeTPzidoMS9L2qmPUkPCvdF28n06u0XYWdIodDgSN7k8AAR/CB\nm9TFB21RWtEPdQxGJngf4Wz9LWszf8oUOtKU5KtdAoGBAJFWLopVhqkZTihPO66b\nv6U57AZIP+TQ4cqcLLQXaLpMRxKz3mH0vEaklqA7x3c6HtZd4n0EFTtDWqkFuY81\nuO3m/hoRy5tyVkP+zsH6muKK5189G6GwA+6qjZqXyKpLdIcB72Li4U1eCMxXMONN\nOH2jBSaDCJXhQwPFZGUJbHu1\n-----END PRIVATE KEY-----\n",
+  "client_email": "limpiezasreig@appspot.gserviceaccount.com",
+  "client_id": "108983788118087123641",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/limpiezasreig%40appspot.gserviceaccount.com"
+}

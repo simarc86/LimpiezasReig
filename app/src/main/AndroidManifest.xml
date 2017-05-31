@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.simarc86.limpiezasreig">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:screenOrientation="landscape">
+
+        <activity
+            android:name=".StartActivity"
+            android:label="@string/title_activity_main">
+            <intent-filter>
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="com.google.android.apps.drive.DRIVE_OPEN" />
+
+
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".CartActivity"
+            android:label="@string/title_activity_cart"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name=".SignActivity"
+            android:label="@string/title_activity_sign">
+        </activity>
+
+
+        <activity
+            android:name=".ClientsActivity"
+            android:label="@string/title_activity_cart"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="landscape">
+
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name=".AlbaranActivity"
+            android:label="@string/title_activity_cart"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+    </application>
+
+</manifest>

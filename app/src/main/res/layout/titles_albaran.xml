@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Nombre producto"
+        android:id="@+id/name_product"
+        android:layout_margin="5dp"
+        android:layout_marginRight="10dp"
+        android:textSize="14dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Precio"
+        android:id="@+id/price_product"
+        android:layout_margin="5dp"
+        android:layout_toLeftOf="@+id/quantity_text"
+        android:layout_marginRight="20dp" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UD."
+        android:id="@+id/quantity_text"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="5dp"
+        android:layout_alignTop="@+id/name_product"
+        android:layout_alignParentEnd="false"
+        android:layout_toLeftOf="@+id/value"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IMPORTE"
+        android:id="@+id/value"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="5dp"
+        android:layout_alignTop="@+id/name_product"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentRight="true" />
+
+
+</RelativeLayout>

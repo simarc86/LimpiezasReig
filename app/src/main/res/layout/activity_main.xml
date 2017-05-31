@@ -1,0 +1,108 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <include android:id="@+id/myid1" layout="@layout/titles_view" />
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentEnd="false"
+        android:layout_above="@+id/relativeLayout" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/relativeLayout"
+        android:visibility="visible">
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:bottomRightRadius="10dp"
+            android:bottomLeftRadius="10dp"
+            android:topLeftRadius="10dp"
+            android:topRightRadius="10dp"
+            android:id="@+id/cart_btn"
+            android:background="@android:color/holo_blue_bright"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:text="Cesta" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:bottomRightRadius="10dp"
+            android:bottomLeftRadius="10dp"
+            android:topLeftRadius="10dp"
+            android:topRightRadius="10dp"
+            android:text="Albaran"
+            android:id="@+id/albaran_btn"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="#1baf7e"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Total:"
+            android:layout_centerVertical= "true"
+            android:id="@+id/total_txt"
+            android:layout_toStartOf="@+id/price_total"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="15dp"
+            android:background="@android:color/holo_orange_light"
+            android:paddingLeft="10dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="0"
+            android:id="@+id/price_total"
+            android:layout_centerVertical= "true"
+            android:layout_toStartOf="@+id/euros_txt"
+            android:textStyle="bold"
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp"
+            android:background="@android:color/holo_orange_light"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" €"
+            android:id="@+id/euros_txt"
+            android:layout_centerVertical= "true"
+            android:layout_alignParentEnd="true"
+            android:textStyle="bold"
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp"
+            android:background="@android:color/holo_orange_light"
+            android:paddingRight="10dp" />
+
+
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

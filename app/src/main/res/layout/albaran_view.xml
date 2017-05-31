@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <include android:id="@+id/myid1" layout="@layout/titles_albaran" />
+
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date"
+        android:text="Fecha:"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        />
+
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/list_albaran"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/date"
+        android:layout_above="@+id/frameLayout"
+        android:layout_alignParentEnd="true" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/frameLayout">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText2"
+            android:text="Firma cliente:"
+            android:paddingLeft="20dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingRight="5dp" />
+
+        <com.simarc86.limpiezasreig.SignView
+            android:id="@+id/signature_canvas"
+            android:layout_width="296dp"
+            android:layout_height="160dp"
+            android:textColor="#FFFFFF" />
+
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/idAlbaran"
+        android:text="Albaran nº:"
+        android:paddingLeft="30dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="40dp"
+        android:paddingRight="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/totalAlbaran" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/totalAlbaran"
+        android:text="Total Albarán:"
+        android:paddingLeft="30dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="40dp"
+        android:paddingRight="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/import_albaran" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/import_albaran"
+        android:text="55,90€"
+        android:paddingLeft="30dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="40dp"
+        android:paddingRight="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
